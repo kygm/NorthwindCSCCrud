@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31808.319
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DbConnectLecture", "DbConnectLecture\DbConnectLecture.csproj", "{FF4C1413-B5C9-48FD-B447-763DD802681E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FF4C1413-B5C9-48FD-B447-763DD802681E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FF4C1413-B5C9-48FD-B447-763DD802681E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FF4C1413-B5C9-48FD-B447-763DD802681E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FF4C1413-B5C9-48FD-B447-763DD802681E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {87004CCE-5422-490A-B3C8-7F22D3904762}
+	EndGlobalSection
+EndGlobal
